@@ -46,7 +46,7 @@ Privacy note:
 
 ## Links
 - App: [TBD]
-- Issues: (click here)[https://github.com/chris-tela/nuzlocke-tracker-public/issues/new]
+- Issues: [click here](https://github.com/chris-tela/nuzlocke-tracker-public/issues/new)
 - Community/Discord: [TBD]
 
 If you are not sure where to post, start with the Issues link.
