@@ -43,9 +43,30 @@ Privacy note:
 - Do not share private save files
 - Redact usernames or personal info if shown
 
+## Save the App to Your Home Screen (Mobile)
+
+You can add **Nuzlocke Tracker** to your phone’s home screen so it behaves like a native app. This lets you launch the tracker quickly without opening your browser each time.
+
+### iPhone / iPad (Safari)
+
+1. Open the app: https://nuzlify.com  
+2. Tap the **Share** button (square with the arrow pointing up).  
+3. Scroll down and tap **Add to Home Screen**.  
+4. Tap **Add** in the top-right corner.
+
+The app icon will appear on your home screen just like a normal app.
+
+### Android (Chrome)
+
+1. Open the app: https://nuzlify.com  
+2. Tap the **three-dot menu** in the top-right corner.  
+3. Tap **Add to Home Screen** or **Install App**.  
+4. Confirm by tapping **Install**.
+
+Once added, the app will launch directly from your home screen.
 
 ## Links
-- App: [TBD]
+- App: [click here](https://nuzlify.com)
 - Issues: [click here](https://github.com/chris-tela/nuzlocke-tracker-public/issues/new)
 - Community/Discord: [TBD]
 
