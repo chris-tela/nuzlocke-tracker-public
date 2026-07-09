@@ -1,0 +1,10 @@
+- Added EV Calculator — reverse-calculate EVs from observed stats and known IVs
+- Gen 1-2 Stat Experience support with binary search reverse calculation
+- EVs are now saved on your Pokemon and persist across sessions
+- Save file imports now auto-extract EVs/Stat Exp alongside IVs
+- IV and EV tabs are bidirectionally linked — saving IVs also saves your EV inputs
+- Manual EV entry with 510 total cap validation for Gen 3+
+- Save import preview now shows IV/EV extraction status
+- IV calculator now supports partial calculation — enter just one stat instead of all six
+- Fixed Gen 2 (Gold/Silver/Crystal) missing Kanto badge images for gyms 9-16
+- Fixed "all 8 badges" completion message — now shows correct count for 16-gym games

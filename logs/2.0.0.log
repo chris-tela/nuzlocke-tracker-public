@@ -1,0 +1,5 @@
+- Added Gen 6 save file import — parse .sav files from Pokemon X, Y, Omega Ruby, and Alpha Sapphire
+- Gen 6 Pokemon data: party, PC boxes, IVs, EVs, moves, natures, abilities, and badges
+- Save imports now correctly persist IVs, EVs, and moves to your Pokemon (all generations)
+- Damage calculator now supports Gen 6 games with correct Gen 6 mechanics
+- Fixed IV/EV calculator crash when viewing Pokemon imported from save files

@@ -1,0 +1,3 @@
+- Added .dsv file support for importing saves from DS games
+- Converted game icons from .png to .webp for better performance
+- /gym tab now displays the full trainer card, previously only stored in /trainers

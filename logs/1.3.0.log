@@ -1,0 +1,8 @@
+- Added IV/DV Calculator — calculate possible IV ranges from observed stats and EVs
+- Gen 1-2 DV support with proper HP derivation from other DVs
+- Pin exact IV values if you know them (e.g. from the in-game Judge)
+- Save file imports now auto-extract exact IVs when available
+- Trainers page now shows a single "Special" stat for Gen 1-2 instead of SpA/SpD
+- Added PWA support — install the app to your home screen on mobile
+- Fixed modal overlapping navbar on mobile
+- Improved modal scrolling on small screens

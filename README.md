@@ -2,7 +2,7 @@
 Public hub for issues and logs for the Nuzlocke Tracker app.
 
 Nuzlocke Tracker helps you manage Nuzlocke challenge progress across
-Pokemon games (Gen I–V). Keep multiple runs organized, track teams and
+Pokemon games (Gen I–VII). Keep multiple runs organized, track teams and
 progress, and bring in save data with a friendly, lightweight workflow.
 This repo focuses on feedback, bug reports, and logs so the app can keep
 getting better for everyone.
@@ -13,12 +13,15 @@ and you can still track everything manually if you prefer.
 
 ## What you can do
 Here is what the app supports today:
-- Import save files for supported Gen I–V games
+- Import save files for supported Gen I–VII games (including .dsv and Gen 6/7 .sav)
 - Track multiple runs and playthroughs at once
 - Manage teams and individual Pokemon details
 - Follow route progress and gym badge status
+- Log encounters and catches per route, including off-route catches
 - Review trainer rosters to plan matchups
 - Check team type coverage at a glance
+- Plan fights with the Damage Calculator (survival and KO chances)
+- Work out stats with the IV/DV and EV calculators
 
 If there is something you expect to see but cannot find, please open an
 issue with a short description of the feature.

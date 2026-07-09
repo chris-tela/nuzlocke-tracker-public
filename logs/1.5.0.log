@@ -1,0 +1,6 @@
+- Added Damage Calculator — calculate damage outcomes and survival chances for any matchup
+- All moves, abilities, and items factored in for a 1-to-1 match to in-game results
+- Stat stage modifiers (-6 to +6) for attacker and defender
+- Field effects support (weather, terrain, screens, and more)
+- Damage calculator is publicly accessible without an account
+- Updated landing page with damage calculator feature section

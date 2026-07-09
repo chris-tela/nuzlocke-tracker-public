@@ -1,0 +1,3 @@
+- Log any Pokemon on a route: search for Pokemon that aren't wild encounters there (gifts, static, and traded catches) and record them as caught on that route
+- Your Pokemon's catch location now appears in the Team edit view
+- Route list updates instantly when you mark a route as seen or catch a Pokemon, with no more full-page refresh or losing your scroll position
